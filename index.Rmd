@@ -6,6 +6,6 @@ documentclass: book
 classoption: openany
 ---
 
-#The River Thames
+# The River Thames
 
 Life on the river, from the source to the sea
