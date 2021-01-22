@@ -6,6 +6,4 @@ documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
-
-Hello!!
+## Life on the river, from the source to the sea
